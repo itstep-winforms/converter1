@@ -46,12 +46,14 @@ namespace Converter1
                     double f = double.Parse(temp1.Text);
                     double c = (f - 32) * 5 / 9;
                     temp2.Text = c.ToString("F");
+                    journal.Text += $"{f:F2} F = {c:F2} C \r\n";
                 }
                 else
                 {
                     double c = double.Parse(temp2.Text);
                     double f = 32 + c * 1.8;
                     temp1.Text = f.ToString("F");
+                    journal.Text += $"{c:F2} C = {f:F2} F \r\n";
                 }
             }
             catch (Exception err)
@@ -63,7 +65,8 @@ namespace Converter1
 
         private void reset_Click(object sender, EventArgs e)
         {
-
+            temp1.Clear();
+            temp2.Clear();
         }
     }
 }

@@ -1,0 +1,9 @@
+C:\Users\student\Downloads\Converter1\Converter1\bin\Debug\Converter1.exe.config
+C:\Users\student\Downloads\Converter1\Converter1\bin\Debug\Converter1.exe
+C:\Users\student\Downloads\Converter1\Converter1\bin\Debug\Converter1.pdb
+C:\Users\student\Downloads\Converter1\Converter1\obj\Debug\Converter1.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\Converter1\Converter1\obj\Debug\Converter1.Form1.resources
+C:\Users\student\Downloads\Converter1\Converter1\obj\Debug\Converter1.Properties.Resources.resources
+C:\Users\student\Downloads\Converter1\Converter1\obj\Debug\Converter1.csproj.GenerateResource.Cache
+C:\Users\student\Downloads\Converter1\Converter1\obj\Debug\Converter1.exe
+C:\Users\student\Downloads\Converter1\Converter1\obj\Debug\Converter1.pdb

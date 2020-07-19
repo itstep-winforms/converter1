@@ -147,6 +147,7 @@
             this.radio1.TabStop = true;
             this.radio1.Text = ">>>";
             this.radio1.UseVisualStyleBackColor = true;
+            this.radio1.CheckedChanged += new System.EventHandler(this.radio1_CheckedChanged);
             // 
             // radio2
             // 
@@ -158,6 +159,7 @@
             this.radio2.TabStop = true;
             this.radio2.Text = "<<<";
             this.radio2.UseVisualStyleBackColor = true;
+            this.radio2.CheckedChanged += new System.EventHandler(this.radio2_CheckedChanged);
             // 
             // calc
             // 
@@ -167,6 +169,7 @@
             this.calc.TabIndex = 0;
             this.calc.Text = "Вычислить";
             this.calc.UseVisualStyleBackColor = true;
+            this.calc.Click += new System.EventHandler(this.calc_Click);
             // 
             // reset
             // 
@@ -176,6 +179,7 @@
             this.reset.TabIndex = 1;
             this.reset.Text = "Сбросить";
             this.reset.UseVisualStyleBackColor = true;
+            this.reset.Click += new System.EventHandler(this.reset_Click);
             // 
             // journal
             // 

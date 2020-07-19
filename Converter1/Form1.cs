@@ -16,5 +16,25 @@ namespace Converter1
         {
             InitializeComponent();
         }
+
+        private void radio1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radio2_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void calc_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void reset_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

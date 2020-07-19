@@ -121,6 +121,7 @@
             this.temp2.ForeColor = System.Drawing.Color.Red;
             this.temp2.Location = new System.Drawing.Point(217, 51);
             this.temp2.Name = "temp2";
+            this.temp2.ReadOnly = true;
             this.temp2.Size = new System.Drawing.Size(100, 28);
             this.temp2.TabIndex = 3;
             this.temp2.Text = "0";
